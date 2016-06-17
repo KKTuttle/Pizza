@@ -62,8 +62,11 @@ $(document).ready(function() {
     // var finalCost = cennik(newCena);
     var total =0;
       // console.log(toppings);
-    $("#userOrder").html("<li>" + newOrder.allInfo() + "</li>");
-    event.preventDefault();
 
+    $("#userOrder").html("<li>" + newOrder.allInfo() + "</li>");
+    $("#formPizza")[0].reset();
+    // $("#userOrder").remove();
+
+    event.preventDefault();
   });
 });
