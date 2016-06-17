@@ -7,7 +7,12 @@ body {
 .titlePizza {
   background-color: hsla(0, 100%, 95%, 0.3);
   padding-top: 25px;
-  /*color:white;*/
+}
+#show-result {
+  background-color: hsla(0, 100%, 95%, 0.5);
+  border: black solid 5px;
+  text-align: center;
+  padding-bottom: 10px;
 }
 .titleNadpis {
   font-size: 60px;
@@ -15,12 +20,32 @@ body {
   text-shadow: 0 0 10px #ff0000;
      /* try yellow #FFF550*/
   color:white;
+  margin-bottom: 10px;
 }
 #cartButton {
   color:black;
-  background-color: grey;
+  background-color: lightgrey;
   border-radius: 20px;
 }
-.toppings, .size {
+.nadpis {
   text-decoration: underline;
+}
+#userName {
+  color:black;
+}
+.finalOrder {
+  font-size: 25px;
+}
+.container {
+  margin-top: 40px;
+}
+.logo {
+  float :right;
+}
+.1 {
+  float: left;
+}
+.c-input {
+  font-weight: 400;
+
 }
