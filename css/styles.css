@@ -1,0 +1,15 @@
+body {
+  background: url("../img/background-bricks.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+.titlePizza {
+  background-color: hsla(0, 100%, 95%, 0.3);
+  padding-top: 25px;
+  /*color:white;*/
+}
+.titleNadpis {
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 0 0 10px #ff0000;    /* try yellow #FFF550*/
+  color:white;
+}
