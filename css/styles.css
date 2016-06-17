@@ -1,6 +1,8 @@
 body {
   background: url("../img/background-bricks.jpg") no-repeat center center fixed;
   background-size: cover;
+  color:white;
+  font-size: 30px;
 }
 .titlePizza {
   background-color: hsla(0, 100%, 95%, 0.3);
@@ -10,7 +12,15 @@ body {
 .titleNadpis {
   font-size: 60px;
   text-align: center;
-  text-shadow: 0 0 10px #ff0000; 
+  text-shadow: 0 0 10px #ff0000;
      /* try yellow #FFF550*/
   color:white;
+}
+#cartButton {
+  color:black;
+  background-color: grey;
+  border-radius: 20px;
+}
+.toppings, .size {
+  text-decoration: underline;
 }
