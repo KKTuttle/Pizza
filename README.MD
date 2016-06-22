@@ -9,7 +9,14 @@
 _The Fantasy Pizza site asks for user's name and offers to chose from three different sizes of pizza and seven different toppings._
 
 ### Specifications
-* 
+*
+| Behavior                        | Input    | Output     |
+| -------------                   |:--------:| ----------:|
+| words starting with vowel       | apple    | appleay    |
+| words starting with consonants  | dog      | ogday      |
+| words starting with 2 consonants| truth    | uthtray    |
+| words starting with y           | you      | ouyay      |
+| words starting with qu          | quick    | ickquay    |
 
 ## Known Bugs
 
