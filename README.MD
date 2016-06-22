@@ -1,4 +1,4 @@
-# _Ping Pong_
+# _Pizza Delivery_
 
 #### _Fantasy Pizza, June 17th, 2016_
 
@@ -16,7 +16,7 @@ _None_
 
 _Contact by email: katka.karolcikova@gmail.com_
 * https://github.com/KKTuttle/Pizza
-* http://kktuttle.github.io/Ping-Pong/
+* gh-pages
 
 ## Technologies Used
 
