@@ -25,7 +25,7 @@ _Does not include price for toppings_
 
 _Contact by email: katka.karolcikova@gmail.com_
 * https://github.com/KKTuttle/Pizza
-* gh-pages
+* https://kktuttle.github.io/Pizza/
 
 ## Technologies Used
 
