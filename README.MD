@@ -9,18 +9,17 @@
 _The Fantasy Pizza site asks for user's name and offers to chose from three different sizes of pizza and seven different toppings._
 
 ### Specifications
-*
-| Behavior                        | Input    | Output     |
-| -------------                   |:--------:| ----------:|
-| words starting with vowel       | apple    | appleay    |
-| words starting with consonants  | dog      | ogday      |
-| words starting with 2 consonants| truth    | uthtray    |
-| words starting with y           | you      | ouyay      |
-| words starting with qu          | quick    | ickquay    |
+
+| Behavior                     | Input        | Output    |
+| -------------                |:------------:| ---------:|
+| ordering a larger pizza      | Large Pizza  | $25       |
+| ordering a medium pizza      | Medium Pizza | $15       |
+| ordering a small pizza       | Small Pizza  | $13       |
+
 
 ## Known Bugs
 
-_None_
+_Does not include price for toppings_
 
 ## Support and contact details
 
